@@ -1,2 +1,2 @@
 # Webssh
-一款使用Vue3框架和Node.js作为后端的WebSSH工具，它实现了Web页端进行ssh操作的功能
+云谷Webssh前端使用Vue.js，后端使用Node.js，通过在网页端发起Websoket请求连接服务器，实现了ssh操作的功能
